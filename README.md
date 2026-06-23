@@ -30,7 +30,7 @@ To clean, model, and analyze the data, the following features were utilized:
 
 ## 📷 Dashboard Preview
 *(Tip: Take a screenshot of your Excel Dashboard, upload it to GitHub, and replace the link below to show your work!)*
-![Dashboard Preview](images/dashboard_screenshot.png)
+![Dashboard Preview](https://github.com/sayoda924/coffee-sales-data-analysis/commit/a32936df1c9800718b9c65f6863a7a9b605bdab5)
 
 ## 🚀 How to Explore the Project
 1. Download the `coffeeOrdersRaw_Data.xlsx` file from this repository.
